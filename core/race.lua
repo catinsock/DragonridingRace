@@ -171,69 +171,69 @@ table.insert(DRR.Races, {id = 75043, currency = 2263, name = L["RACE_75043"], ra
 -- Kalimdor Cup
 -- TODO: Localization needed (en, fr, de, br, pt, ru, cn)
 -- Rocketway Ride
-table.insert(DRR.Races, {id = 75347, currency = 9999, name = "Rocketway Ride", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75355, currency = 9999, name = "Rocketway Ride (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75316, currency = 9999, name = "Rocketway Ride (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75347, currency = 2251, name = "Rocketway Ride", raceType = 0, gold = 100});
+table.insert(DRR.Races, {id = 75355, currency = 2257, name = "Rocketway Ride (advanced)", raceType = 1, gold = 94});
+table.insert(DRR.Races, {id = 75316, currency = 2263, name = "Rocketway Ride (reverse)", raceType = 2, gold = 94});
 -- Winter Wander
-table.insert(DRR.Races, {id = 75310, currency = 9999, name = "Winter Wander", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75311, currency = 9999, name = "Winter Wander (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75312, currency = 9999, name = "Winter Wander (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75310, currency = 2251, name = "Winter Wander", raceType = 0, gold = 76});
+table.insert(DRR.Races, {id = 75311, currency = 2257, name = "Winter Wander (advanced)", raceType = 1, gold = 73});
+table.insert(DRR.Races, {id = 75312, currency = 2263, name = "Winter Wander (reverse)", raceType = 2, gold = 70});
 -- Nordrassil Spiral
-table.insert(DRR.Races, {id = 75317, currency = 9999, name = "Nordrassil Spiral", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75318, currency = 9999, name = "Nordrassil Spiral (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75319, currency = 9999, name = "Nordrassil Spiral (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75317, currency = 2251, name = "Nordrassil Spiral", raceType = 0, gold = 45});
+table.insert(DRR.Races, {id = 75318, currency = 2257, name = "Nordrassil Spiral (advanced)", raceType = 1, gold = 41});
+table.insert(DRR.Races, {id = 75319, currency = 2263, name = "Nordrassil Spiral (reverse)", raceType = 2, gold = 41});
 -- Felwood Flyover
-table.insert(DRR.Races, {id = 75277, currency = 9999, name = "Felwood Flyover", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75293, currency = 9999, name = "Felwood Flyover (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75294, currency = 9999, name = "Felwood Flyover (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75277, currency = 2251, name = "Felwood Flyover", raceType = 0, gold = 70});
+table.insert(DRR.Races, {id = 75293, currency = 2257, name = "Felwood Flyover (advanced)", raceType = 1, gold = 63});
+table.insert(DRR.Races, {id = 75294, currency = 2263, name = "Felwood Flyover (reverse)", raceType = 2, gold = 62});
 -- Hyjal Hotfoot
-table.insert(DRR.Races, {id = 75330, currency = 9999, name = "Hyjal Hotfoot", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75331, currency = 9999, name = "Hyjal Hotfoot (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75332, currency = 9999, name = "Hyjal Hotfoot (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75330, currency = 2251, name = "Hyjal Hotfoot", raceType = 0, gold = 999});
+table.insert(DRR.Races, {id = 75331, currency = 2257, name = "Hyjal Hotfoot (advanced)", raceType = 1, gold = 999});
+table.insert(DRR.Races, {id = 75332, currency = 2263, name = "Hyjal Hotfoot (reverse)", raceType = 2, gold = 999});
 -- Ashenvale Ambit
-table.insert(DRR.Races, {id = 75378, currency = 9999, name = "Ashenvale Ambit", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75379, currency = 9999, name = "Ashenvale Ambit (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75380, currency = 9999, name = "Ashenvale Ambit (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75378, currency = 2251, name = "Ashenvale Ambit", raceType = 0, gold = 64});
+table.insert(DRR.Races, {id = 75379, currency = 2257, name = "Ashenvale Ambit (advanced)", raceType = 1, gold = 59});
+table.insert(DRR.Races, {id = 75380, currency = 2263, name = "Ashenvale Ambit (reverse)", raceType = 2, gold = 59});
 -- Webwinder Weave
-table.insert(DRR.Races, {id = 75394, currency = 9999, name = "Webwinder Weave", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75395, currency = 9999, name = "Webwinder Weave (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75396, currency = 9999, name = "Webwinder Weave (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75394, currency = 2251, name = "Webwinder Weave", raceType = 0, gold = 80});
+table.insert(DRR.Races, {id = 75395, currency = 2257, name = "Webwinder Weave (advanced)", raceType = 1, gold = 70});
+table.insert(DRR.Races, {id = 75396, currency = 2263, name = "Webwinder Weave (reverse)", raceType = 2, gold = 70});
 -- Great Divide Dive
-table.insert(DRR.Races, {id = 75412, currency = 9999, name = "Great Divide Dive", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75413, currency = 9999, name = "Great Divide Dive (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75414, currency = 9999, name = "Great Divide Dive (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75412, currency = 2251, name = "Great Divide Dive", raceType = 0, gold = 48});
+table.insert(DRR.Races, {id = 75413, currency = 2257, name = "Great Divide Dive (advanced)", raceType = 1, gold = 43});
+table.insert(DRR.Races, {id = 75414, currency = 2263, name = "Great Divide Dive (reverse)", raceType = 2, gold = 44});
 -- Durotar Tour
-table.insert(DRR.Races, {id = 75385, currency = 9999, name = "Durotar Tour", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75386, currency = 9999, name = "Durotar Tour (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75387, currency = 9999, name = "Durotar Tour (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75385, currency = 2251, name = "Durotar Tour", raceType = 0, gold = 80});
+table.insert(DRR.Races, {id = 75386, currency = 2257, name = "Durotar Tour (advanced)", raceType = 1, gold = 73});
+table.insert(DRR.Races, {id = 75387, currency = 2263, name = "Durotar Tour (reverse)", raceType = 2, gold = 73});
 -- Desolace Drift
-table.insert(DRR.Races, {id = 75409, currency = 9999, name = "Desolace Drift", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75410, currency = 9999, name = "Desolace Drift (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75411, currency = 9999, name = "Desolace Drift (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75409, currency = 2251, name = "Desolace Drift", raceType = 0, gold = 75});
+table.insert(DRR.Races, {id = 75410, currency = 2257, name = "Desolace Drift (advanced)", raceType = 1, gold = 75});
+table.insert(DRR.Races, {id = 75411, currency = 2263, name = "Desolace Drift (reverse)", raceType = 2, gold = 70});
 -- Feralas Ruins Ramble
-table.insert(DRR.Races, {id = 75468, currency = 9999, name = "Feralas Ruins Ramble", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75469, currency = 9999, name = "Feralas Ruins Ramble (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75470, currency = 9999, name = "Feralas Ruins Ramble (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75468, currency = 2251, name = "Feralas Ruins Ramble", raceType = 0, gold = 999});
+table.insert(DRR.Races, {id = 75469, currency = 2257, name = "Feralas Ruins Ramble (advanced)", raceType = 1, gold = 999});
+table.insert(DRR.Races, {id = 75470, currency = 2263, name = "Feralas Ruins Ramble (reverse)", raceType = 2, gold = 999});
 -- Thousand Needles Thread
-table.insert(DRR.Races, {id = 75463, currency = 9999, name = "Thousand Needles Thread", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75464, currency = 9999, name = "Thousand Needles Thread (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75465, currency = 9999, name = "Thousand Needles Thread (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75463, currency = 2251, name = "Thousand Needles Thread", raceType = 0, gold = 83});
+table.insert(DRR.Races, {id = 75464, currency = 2257, name = "Thousand Needles Thread (advanced)", raceType = 1, gold = 999});
+table.insert(DRR.Races, {id = 75465, currency = 2263, name = "Thousand Needles Thread (reverse)", raceType = 2, gold = 999});
 -- Razorfen Roundabout
-table.insert(DRR.Races, {id = 75437, currency = 9999, name = "Razorfen Roundabout", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75438, currency = 9999, name = "Razorfen Roundabout (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75439, currency = 9999, name = "Razorfen Roundabout (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75437, currency = 2251, name = "Razorfen Roundabout", raceType = 0, gold = 53});
+table.insert(DRR.Races, {id = 75438, currency = 2257, name = "Razorfen Roundabout (advanced)", raceType = 1, gold = 47});
+table.insert(DRR.Races, {id = 75439, currency = 2263, name = "Razorfen Roundabout (reverse)", raceType = 2, gold = 47});
 -- Un'Goro Crater Circuit
-table.insert(DRR.Races, {id = 75485, currency = 9999, name = "Un'Goro Crater Circuit", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75486, currency = 9999, name = "Un'Goro Crater Circuit (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75487, currency = 9999, name = "Un'Goro Crater Circuit (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75485, currency = 2251, name = "Un'Goro Crater Circuit", raceType = 0, gold = 100});
+table.insert(DRR.Races, {id = 75486, currency = 2257, name = "Un'Goro Crater Circuit (advanced)", raceType = 1, gold = 87});
+table.insert(DRR.Races, {id = 75487, currency = 2263, name = "Un'Goro Crater Circuit (reverse)", raceType = 2, gold = 91});
 -- Ahn'Qiraj Circuit
-table.insert(DRR.Races, {id = 75472, currency = 9999, name = "Ahn'Qiraj Circuit", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75473, currency = 9999, name = "Ahn'Qiraj Circuit (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75474, currency = 9999, name = "Ahn'Qiraj Circuit (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75472, currency = 2251, name = "Ahn'Qiraj Circuit", raceType = 0, gold = 75});
+table.insert(DRR.Races, {id = 75473, currency = 2257, name = "Ahn'Qiraj Circuit (advanced)", raceType = 1, gold = 66});
+table.insert(DRR.Races, {id = 75474, currency = 2263, name = "Ahn'Qiraj Circuit (reverse)", raceType = 2, gold = 69});
 -- Uldum Tour
-table.insert(DRR.Races, {id = 75481, currency = 9999, name = "Uldum Tour", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75482, currency = 9999, name = "Uldum Tour (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75483, currency = 9999, name = "Uldum Tour (reverse)", raceType = 2, gold = 999});
+table.insert(DRR.Races, {id = 75481, currency = 2251, name = "Uldum Tour", raceType = 0, gold = 999});
+table.insert(DRR.Races, {id = 75482, currency = 2257, name = "Uldum Tour (advanced)", raceType = 1, gold = 999});
+table.insert(DRR.Races, {id = 75483, currency = 2263, name = "Uldum Tour (reverse)", raceType = 2, gold = 999});
 
 DRR.CURRENT_RACE = nil;
 DRR.CURRENT_RACE_CURRENCY = nil;
