@@ -170,70 +170,70 @@ table.insert(DRR.Races, {id = 75043, currency = 2263, name = L["RACE_75043"], ra
 
 -- Kalimdor Cup
 -- TODO: Localization needed (en, fr, de, br, pt, ru, cn)
--- Rocketway Ride
-table.insert(DRR.Races, {id = 75347, currency = 2251, name = "Rocketway Ride", raceType = 0, gold = 100});
-table.insert(DRR.Races, {id = 75355, currency = 2257, name = "Rocketway Ride (advanced)", raceType = 1, gold = 94});
-table.insert(DRR.Races, {id = 75316, currency = 2263, name = "Rocketway Ride (reverse)", raceType = 2, gold = 94});
--- Winter Wander
-table.insert(DRR.Races, {id = 75310, currency = 2251, name = "Winter Wander", raceType = 0, gold = 76});
-table.insert(DRR.Races, {id = 75311, currency = 2257, name = "Winter Wander (advanced)", raceType = 1, gold = 73});
-table.insert(DRR.Races, {id = 75312, currency = 2263, name = "Winter Wander (reverse)", raceType = 2, gold = 70});
--- Nordrassil Spiral
-table.insert(DRR.Races, {id = 75317, currency = 2251, name = "Nordrassil Spiral", raceType = 0, gold = 45});
-table.insert(DRR.Races, {id = 75318, currency = 2257, name = "Nordrassil Spiral (advanced)", raceType = 1, gold = 41});
-table.insert(DRR.Races, {id = 75319, currency = 2263, name = "Nordrassil Spiral (reverse)", raceType = 2, gold = 41});
--- Felwood Flyover
-table.insert(DRR.Races, {id = 75277, currency = 2251, name = "Felwood Flyover", raceType = 0, gold = 70});
-table.insert(DRR.Races, {id = 75293, currency = 2257, name = "Felwood Flyover (advanced)", raceType = 1, gold = 63});
-table.insert(DRR.Races, {id = 75294, currency = 2263, name = "Felwood Flyover (reverse)", raceType = 2, gold = 62});
--- Hyjal Hotfoot
-table.insert(DRR.Races, {id = 75330, currency = 2251, name = "Hyjal Hotfoot", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75331, currency = 2257, name = "Hyjal Hotfoot (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75332, currency = 2263, name = "Hyjal Hotfoot (reverse)", raceType = 2, gold = 999});
--- Ashenvale Ambit
-table.insert(DRR.Races, {id = 75378, currency = 2251, name = "Ashenvale Ambit", raceType = 0, gold = 64});
-table.insert(DRR.Races, {id = 75379, currency = 2257, name = "Ashenvale Ambit (advanced)", raceType = 1, gold = 59});
-table.insert(DRR.Races, {id = 75380, currency = 2263, name = "Ashenvale Ambit (reverse)", raceType = 2, gold = 59});
--- Webwinder Weave
-table.insert(DRR.Races, {id = 75394, currency = 2251, name = "Webwinder Weave", raceType = 0, gold = 80});
-table.insert(DRR.Races, {id = 75395, currency = 2257, name = "Webwinder Weave (advanced)", raceType = 1, gold = 70});
-table.insert(DRR.Races, {id = 75396, currency = 2263, name = "Webwinder Weave (reverse)", raceType = 2, gold = 70});
--- Great Divide Dive
-table.insert(DRR.Races, {id = 75412, currency = 2251, name = "Great Divide Dive", raceType = 0, gold = 48});
-table.insert(DRR.Races, {id = 75413, currency = 2257, name = "Great Divide Dive (advanced)", raceType = 1, gold = 43});
-table.insert(DRR.Races, {id = 75414, currency = 2263, name = "Great Divide Dive (reverse)", raceType = 2, gold = 44});
--- Durotar Tour
-table.insert(DRR.Races, {id = 75385, currency = 2251, name = "Durotar Tour", raceType = 0, gold = 80});
-table.insert(DRR.Races, {id = 75386, currency = 2257, name = "Durotar Tour (advanced)", raceType = 1, gold = 73});
-table.insert(DRR.Races, {id = 75387, currency = 2263, name = "Durotar Tour (reverse)", raceType = 2, gold = 73});
--- Desolace Drift
-table.insert(DRR.Races, {id = 75409, currency = 2251, name = "Desolace Drift", raceType = 0, gold = 75});
-table.insert(DRR.Races, {id = 75410, currency = 2257, name = "Desolace Drift (advanced)", raceType = 1, gold = 75});
-table.insert(DRR.Races, {id = 75411, currency = 2263, name = "Desolace Drift (reverse)", raceType = 2, gold = 70});
--- Feralas Ruins Ramble
-table.insert(DRR.Races, {id = 75468, currency = 2251, name = "Feralas Ruins Ramble", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75469, currency = 2257, name = "Feralas Ruins Ramble (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75470, currency = 2263, name = "Feralas Ruins Ramble (reverse)", raceType = 2, gold = 999});
--- Thousand Needles Thread
-table.insert(DRR.Races, {id = 75463, currency = 2251, name = "Thousand Needles Thread", raceType = 0, gold = 83});
-table.insert(DRR.Races, {id = 75464, currency = 2257, name = "Thousand Needles Thread (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75465, currency = 2263, name = "Thousand Needles Thread (reverse)", raceType = 2, gold = 999});
--- Razorfen Roundabout
-table.insert(DRR.Races, {id = 75437, currency = 2251, name = "Razorfen Roundabout", raceType = 0, gold = 53});
-table.insert(DRR.Races, {id = 75438, currency = 2257, name = "Razorfen Roundabout (advanced)", raceType = 1, gold = 47});
-table.insert(DRR.Races, {id = 75439, currency = 2263, name = "Razorfen Roundabout (reverse)", raceType = 2, gold = 47});
--- Un'Goro Crater Circuit
-table.insert(DRR.Races, {id = 75485, currency = 2251, name = "Un'Goro Crater Circuit", raceType = 0, gold = 100});
-table.insert(DRR.Races, {id = 75486, currency = 2257, name = "Un'Goro Crater Circuit (advanced)", raceType = 1, gold = 87});
-table.insert(DRR.Races, {id = 75487, currency = 2263, name = "Un'Goro Crater Circuit (reverse)", raceType = 2, gold = 91});
--- Ahn'Qiraj Circuit
-table.insert(DRR.Races, {id = 75472, currency = 2251, name = "Ahn'Qiraj Circuit", raceType = 0, gold = 75});
-table.insert(DRR.Races, {id = 75473, currency = 2257, name = "Ahn'Qiraj Circuit (advanced)", raceType = 1, gold = 66});
-table.insert(DRR.Races, {id = 75474, currency = 2263, name = "Ahn'Qiraj Circuit (reverse)", raceType = 2, gold = 69});
--- Uldum Tour
-table.insert(DRR.Races, {id = 75481, currency = 2251, name = "Uldum Tour", raceType = 0, gold = 999});
-table.insert(DRR.Races, {id = 75482, currency = 2257, name = "Uldum Tour (advanced)", raceType = 1, gold = 999});
-table.insert(DRR.Races, {id = 75483, currency = 2263, name = "Uldum Tour (reverse)", raceType = 2, gold = 999});
+-- Felwood Flyover (Kalimdor 01)
+table.insert(DRR.Races, {id = 75277, currency = 2312, name = "Felwood Flyover", raceType = 0, gold = 70});
+table.insert(DRR.Races, {id = 75293, currency = 2342, name = "Felwood Flyover (advanced)", raceType = 1, gold = 63});
+table.insert(DRR.Races, {id = 75294, currency = 2372, name = "Felwood Flyover (reverse)", raceType = 2, gold = 62});
+-- Winter Wander (Kalimdor 02)
+table.insert(DRR.Races, {id = 75310, currency = 2313, name = "Winter Wander", raceType = 0, gold = 76});
+table.insert(DRR.Races, {id = 75311, currency = 2343, name = "Winter Wander (advanced)", raceType = 1, gold = 73});
+table.insert(DRR.Races, {id = 75312, currency = 2373, name = "Winter Wander (reverse)", raceType = 2, gold = 70});
+-- Nordrassil Spiral (Kalimdor 03)
+table.insert(DRR.Races, {id = 75317, currency = 2314, name = "Nordrassil Spiral", raceType = 0, gold = 45});
+table.insert(DRR.Races, {id = 75318, currency = 2344, name = "Nordrassil Spiral (advanced)", raceType = 1, gold = 41});
+table.insert(DRR.Races, {id = 75319, currency = 2374, name = "Nordrassil Spiral (reverse)", raceType = 2, gold = 41});
+-- Hyjal Hotfoot (Kalimdor 04)
+table.insert(DRR.Races, {id = 75330, currency = 2315, name = "Hyjal Hotfoot", raceType = 0, gold = 999});
+table.insert(DRR.Races, {id = 75331, currency = 2345, name = "Hyjal Hotfoot (advanced)", raceType = 1, gold = 69});
+table.insert(DRR.Races, {id = 75332, currency = 2375, name = "Hyjal Hotfoot (reverse)", raceType = 2, gold = 999});
+-- Rocketway Ride (Kalimdor 05)
+table.insert(DRR.Races, {id = 75347, currency = 2316, name = "Rocketway Ride", raceType = 0, gold = 100});
+table.insert(DRR.Races, {id = 75355, currency = 2346, name = "Rocketway Ride (advanced)", raceType = 1, gold = 94});
+table.insert(DRR.Races, {id = 75316, currency = 2376, name = "Rocketway Ride (reverse)", raceType = 2, gold = 94});
+-- Ashenvale Ambit (Kalimdor 06)
+table.insert(DRR.Races, {id = 75378, currency = 2317, name = "Ashenvale Ambit", raceType = 0, gold = 64});
+table.insert(DRR.Races, {id = 75379, currency = 2347, name = "Ashenvale Ambit (advanced)", raceType = 1, gold = 59});
+table.insert(DRR.Races, {id = 75380, currency = 2377, name = "Ashenvale Ambit (reverse)", raceType = 2, gold = 59});
+-- Durotar Tour (Kalimdor 07)
+table.insert(DRR.Races, {id = 75385, currency = 2318, name = "Durotar Tour", raceType = 0, gold = 80});
+table.insert(DRR.Races, {id = 75386, currency = 2348, name = "Durotar Tour (advanced)", raceType = 1, gold = 73});
+table.insert(DRR.Races, {id = 75387, currency = 2378, name = "Durotar Tour (reverse)", raceType = 2, gold = 73});
+-- Webwinder Weave (Kalimdor 08)
+table.insert(DRR.Races, {id = 75394, currency = 2319, name = "Webwinder Weave", raceType = 0, gold = 80});
+table.insert(DRR.Races, {id = 75395, currency = 2349, name = "Webwinder Weave (advanced)", raceType = 1, gold = 70});
+table.insert(DRR.Races, {id = 75396, currency = 2379, name = "Webwinder Weave (reverse)", raceType = 2, gold = 70});
+-- Desolace Drift (Kalimdor 09)
+table.insert(DRR.Races, {id = 75409, currency = 2320, name = "Desolace Drift", raceType = 0, gold = 75});
+table.insert(DRR.Races, {id = 75410, currency = 2350, name = "Desolace Drift (advanced)", raceType = 1, gold = 75});
+table.insert(DRR.Races, {id = 75411, currency = 2380, name = "Desolace Drift (reverse)", raceType = 2, gold = 70});
+-- Great Divide Dive (Kalimdor 10)
+table.insert(DRR.Races, {id = 75412, currency = 2321, name = "Great Divide Dive", raceType = 0, gold = 48});
+table.insert(DRR.Races, {id = 75413, currency = 2351, name = "Great Divide Dive (advanced)", raceType = 1, gold = 43});
+table.insert(DRR.Races, {id = 75414, currency = 2381, name = "Great Divide Dive (reverse)", raceType = 2, gold = 44});
+-- Razorfen Roundabout (Kalimdor 11)
+table.insert(DRR.Races, {id = 75437, currency = 2322, name = "Razorfen Roundabout", raceType = 0, gold = 53});
+table.insert(DRR.Races, {id = 75438, currency = 2352, name = "Razorfen Roundabout (advanced)", raceType = 1, gold = 47});
+table.insert(DRR.Races, {id = 75439, currency = 2382, name = "Razorfen Roundabout (reverse)", raceType = 2, gold = 47});
+-- Thousand Needles Thread (Kalimdor 12)
+table.insert(DRR.Races, {id = 75463, currency = 2323, name = "Thousand Needles Thread", raceType = 0, gold = 83});
+table.insert(DRR.Races, {id = 75464, currency = 2353, name = "Thousand Needles Thread (advanced)", raceType = 1, gold = 999});
+table.insert(DRR.Races, {id = 75465, currency = 2383, name = "Thousand Needles Thread (reverse)", raceType = 2, gold = 999});
+-- Feralas Ruins Ramble (Kalimdor 13)
+table.insert(DRR.Races, {id = 75468, currency = 2324, name = "Feralas Ruins Ramble", raceType = 0, gold = 999});
+table.insert(DRR.Races, {id = 75469, currency = 2354, name = "Feralas Ruins Ramble (advanced)", raceType = 1, gold = 999});
+table.insert(DRR.Races, {id = 75470, currency = 2384, name = "Feralas Ruins Ramble (reverse)", raceType = 2, gold = 999});
+-- Ahn'Qiraj Circuit (Kalimdor 14)
+table.insert(DRR.Races, {id = 75472, currency = 2325, name = "Ahn'Qiraj Circuit", raceType = 0, gold = 75});
+table.insert(DRR.Races, {id = 75473, currency = 2355, name = "Ahn'Qiraj Circuit (advanced)", raceType = 1, gold = 66});
+table.insert(DRR.Races, {id = 75474, currency = 2385, name = "Ahn'Qiraj Circuit (reverse)", raceType = 2, gold = 69});
+-- Uldum Tour (Kalimdor 15)
+table.insert(DRR.Races, {id = 75481, currency = 2326, name = "Uldum Tour", raceType = 0, gold = 999});
+table.insert(DRR.Races, {id = 75482, currency = 2356, name = "Uldum Tour (advanced)", raceType = 1, gold = 999});
+table.insert(DRR.Races, {id = 75483, currency = 2386, name = "Uldum Tour (reverse)", raceType = 2, gold = 999});
+-- Un'Goro Crater Circuit (Kalimdor 16)
+table.insert(DRR.Races, {id = 75485, currency = 2327, name = "Un'Goro Crater Circuit", raceType = 0, gold = 100});
+table.insert(DRR.Races, {id = 75486, currency = 2357, name = "Un'Goro Crater Circuit (advanced)", raceType = 1, gold = 87});
+table.insert(DRR.Races, {id = 75487, currency = 2387, name = "Un'Goro Crater Circuit (reverse)", raceType = 2, gold = 91});
 
 DRR.CURRENT_RACE = nil;
 DRR.CURRENT_RACE_CURRENCY = nil;
