@@ -14,6 +14,7 @@ function DRR:AddAllPB(container)
     DRR:AddThaldraszusPB(container);
     DRR:AddForbiddenReachPB(container);
     DRR:AddZaralekCavernPB(container);
+    DRR:AddKalimdorCupPB(container);
     --container:DoLayout();
 end
 
@@ -115,6 +116,30 @@ function DRR:AddZaralekCavernPB(container)
         {normal = 74951, advanced = 74954, reverse = 74956},
         {normal = 74972, advanced = 74975, reverse = 74977},
         {normal = 75035, advanced = 75042, reverse = 75043},
+    };
+    DRR:AddPBLine_Table(races, container);
+end
+
+function DRR:AddKalimdorCupPB(container)
+    DRR:AddPBZoneHeader("Kalimdor Cup", container)
+    DRR:AddPBHeader(container);
+    local races = {
+        {normal = 75347, advanced = 75355, reverse = 75316}, -- Rocketway Ride
+        {normal = 75310, advanced = 75311, reverse = 75312}, -- Winter Wander
+        {normal = 75317, advanced = 75318, reverse = 75319}, -- Nordrassil Spiral
+        {normal = 75277, advanced = 75293, reverse = 75294}, -- Felwood Flyover
+        {normal = 75330, advanced = 75331, reverse = 75332}, -- Hyjal Hotfoot
+        {normal = 75378, advanced = 75379, reverse = 75380}, -- Ashenvale Ambit
+        {normal = 75394, advanced = 75395, reverse = 75396}, -- Webwinder Weave
+        {normal = 75412, advanced = 75413, reverse = 75414}, -- Great Divide Dive
+        {normal = 75385, advanced = 75386, reverse = 75387}, -- Durotar Tour
+        {normal = 75409, advanced = 75410, reverse = 75411}, -- Desolace Drift
+        {normal = 75468, advanced = 75469, reverse = 75470}, -- Feralas Ruins Ramble
+        {normal = 75463, advanced = 75464, reverse = 75465}, -- Thousand Needles Thread
+        {normal = 75437, advanced = 75438, reverse = 75439}, -- Razorfen Roundabout
+        {normal = 75485, advanced = 75486, reverse = 75487}, -- Un'Goro Crater Circuit
+        {normal = 75472, advanced = 75473, reverse = 75474}, -- Ahn'Qiraj Circuit
+        {normal = 75481, advanced = 75482, reverse = 75483}, -- Uldum Tour
     };
     DRR:AddPBLine_Table(races, container);
 end
